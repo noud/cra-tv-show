@@ -4,7 +4,7 @@
 
 ## API endpoint to consume
 
-- [TVmaze](http://www.tvmaze.com) [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) [API](http://www.tvmaze.com/api) returning [JSON](https://en.wikipedia.org/wiki/JSON) [HAL](https://en.wikipedia.org/wiki/Hypertext_Application_Language)
+- [TVmaze](http://www.tvmaze.com) [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) [API](http://www.tvmaze.com/api) payload [JSON](https://en.wikipedia.org/wiki/JSON) conform [HAL](https://en.wikipedia.org/wiki/Hypertext_Application_Language)
 
 ## Tooling
 
