@@ -1,4 +1,4 @@
-# 📺 [CRA](https://create-react-app.dev) TVshow [SPA](https://en.wikipedia.org/wiki/Single-page_application)
+# 📺 [CRA](https://create-react-app.dev) TV show [SPA](https://en.wikipedia.org/wiki/Single-page_application)
 
 ## [Specification](https://github.com/noud/cra-tv-show/blob/master/docs/The_Powerpuff_Girls.pdf)
 
