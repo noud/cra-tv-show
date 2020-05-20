@@ -1,4 +1,4 @@
-# 📺 [CRA](https://create-react-app.dev) TV show [SPA](https://en.wikipedia.org/wiki/Single-page_application) [API](https://en.wikipedia.org/wiki/Application_programming_interface)
+# 📺 TV show [SPA](https://en.wikipedia.org/wiki/Single-page_application) [API](https://en.wikipedia.org/wiki/Application_programming_interface)
 
 ## [Specification](https://github.com/noud/cra-tv-show/blob/master/docs/The_Powerpuff_Girls.pdf)
 
