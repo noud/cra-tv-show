@@ -1,0 +1,7 @@
+[movie]
+*id
+title
+overview
+poster
+backdrop
+vote_avarage
